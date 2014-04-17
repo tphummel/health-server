@@ -1,6 +1,6 @@
 {
   "name": "health-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a standalone http health check endpoint",
   "main": "index.js",
   "dependencies": {
