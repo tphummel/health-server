@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/tphummel/slash-health-server.git"
+    "url": "http://github.com/tphummel/health-server.git"
   },
   "bugs": {
-    "url": "http://github.com/tphummel/slash-health-server/issues"
+    "url": "http://github.com/tphummel/health-server/issues"
   },
   "scripts": {
     "start": "node index.js",
