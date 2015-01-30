@@ -4,7 +4,7 @@
   "description": "a standalone http health check endpoint",
   "main": "index.js",
   "dependencies": {
-    "health-route": "^3.0.1"
+    "health-route": "^3.0.2"
   },
   "devDependencies": {
     "tape": "~2.3.2"
